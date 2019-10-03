@@ -2,4 +2,13 @@
 
 ## Linux
 
-Copiar a biblioteca para o diretório **/usr/lib/**
+### Locais para Biblioteca
+
+* No projeto no diretório **resources/linux-x86-64** ou
+* No SO no diretório **/usr/lib/**
+
+## Windows
+
+### Locais para Biblioteca
+
+* No projeto no diretório **resources/win32-x86-64**
